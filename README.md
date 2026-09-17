@@ -54,10 +54,10 @@ Hi! I'm **Eca**, currently working as **Manage Service Staff** while transitioni
 ### 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ersaistary&show_icons=true&theme=rose_pine&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersaistary&layout=compact&theme=rose_pine&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-now.vercel.app/api?username=ersaistary&show_icons=true&theme=rose_pine&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=ersaistary&layout=compact&theme=rose_pine&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ersaistary&theme=rose_pine&hide_border=true" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=ersaistary&theme=rose_pine&hide_border=true" width="97%" />
 </p>
