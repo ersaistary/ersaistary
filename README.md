@@ -25,12 +25,16 @@ Hi! I'm **Eca**, currently working as **Manage Service Staff** while transitioni
 
 ### 🍓 Tools & Tech Stack
 
+**QA & Testing Tools:**
 <p align="left">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/ApiDog-007ACC?style=for-the-badge&logo=apidog&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <br/>
+</p>
+
+**Development & Languages:**
+<p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -54,10 +58,10 @@ Hi! I'm **Eca**, currently working as **Manage Service Staff** while transitioni
 ### 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-now.vercel.app/api?username=ersaistary&show_icons=true&theme=rose_pine&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=ersaistary&layout=compact&theme=rose_pine&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ersaistary&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersaistary&layout=compact&theme=rose_pine&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ersaistary&theme=rose_pine&hide_border=true" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ersaistary&theme=rose_pine&hide_border=true" width="97%" alt="GitHub Streak" />
 </p>
